@@ -1,0 +1,7 @@
+src/main/resources
+bin
+out/production/Elendil
+out/test/Elendil
+build/deps
+build/classes/main
+build/resources/main
